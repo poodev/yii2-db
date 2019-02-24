@@ -1,0 +1,32 @@
+{
+    "name": "poodev/yii2-db",
+    "description": "Yii2 Db Wrapper by PooDev Project",
+    "keywords": [
+        "yii",
+        "yii2",
+        "db"
+    ],
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "support": {
+        "issues": "https://github.com/poodev/yii2-helpers/issues",
+        "source": "https://github.com/agussuhartono/yii2-helpers"
+    },
+    "authors": [
+        {
+            "name": "Agus Suhartono",
+            "email": "agus.suhartono@gmail.com",
+            "homepage": "https://agus.pro/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "^2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "poo\\db\\": "src"
+        }
+    }
+}
