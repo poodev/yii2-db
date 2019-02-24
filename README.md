@@ -1,4 +1,4 @@
-Poodev Yii2 Db Component
+Poo Db Component
 ===============================
 
 Poodev Yii2 Db Component wrapping Yii2 db with add some functionality
